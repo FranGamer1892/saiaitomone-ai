@@ -1,6 +1,8 @@
 # 最愛友音 AI
 Diff-SVC voice model for Saiai Tomone
 
+https://user-images.githubusercontent.com/13150712/208295389-720d5f7b-a3b5-4046-9863-ae4f04224c2a.mp4
+
 # Terms of Use
 - Commercial usage with this model is allowed only with the creator’s permission beforehand.
 - No derivatives or redistribution is allowed, under no circumstances.
