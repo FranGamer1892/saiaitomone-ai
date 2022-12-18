@@ -1,5 +1,5 @@
 # 最愛友音 AI
-Diff-SVC voice model for Saiai Tomone
+Diff-SVC voice model for Saiai Tomone (samples mostly around ~C3, probably not suitable for high notes)
 
 https://user-images.githubusercontent.com/13150712/208295389-720d5f7b-a3b5-4046-9863-ae4f04224c2a.mp4
 
