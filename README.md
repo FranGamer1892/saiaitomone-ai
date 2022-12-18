@@ -1,5 +1,5 @@
 # 最愛友音 AI
-Diff-SVC voice model for Saiai Tomone (samples mostly around ~C3, probably not suitable for high notes)
+24kHz Diff-SVC voice model for Saiai Tomone (samples mostly around ~C3, probably not suitable for high notes)
 
 Total dataset duration: 34 minutes and 40 seconds
 
