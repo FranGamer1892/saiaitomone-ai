@@ -3,7 +3,7 @@
 
 Total dataset duration: 34 minutes and 40 seconds
 
-https://user-images.githubusercontent.com/13150712/208295389-720d5f7b-a3b5-4046-9863-ae4f04224c2a.mp4
+https://user-images.githubusercontent.com/13150712/208581400-e301a1bf-bbc3-442c-8769-c78f57392adb.mp4
 
 # Terms of Use
 - Commercial usage with this model is allowed only with the creator’s permission beforehand.
