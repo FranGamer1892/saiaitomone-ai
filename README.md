@@ -1,9 +1,15 @@
 # 最愛友音 AI
-24kHz Diff-SVC voice model for Saiai Tomone (samples mostly around ~C3, probably not suitable for high notes)
+Diff-SVC voice models for Saiai Tomone (samples mostly around ~C3, probably not suitable for high notes)
 
 Total dataset duration: 34 minutes and 40 seconds
 
+24kHz demo:
+
 https://user-images.githubusercontent.com/13150712/208581400-e301a1bf-bbc3-442c-8769-c78f57392adb.mp4
+
+44.1k demo:
+
+https://user-images.githubusercontent.com/13150712/209485193-797c886d-a8b4-48cc-b452-eccd4060817e.mp4
 
 # Terms of Use
 - Commercial usage with this model is allowed only with the creator’s permission beforehand.
